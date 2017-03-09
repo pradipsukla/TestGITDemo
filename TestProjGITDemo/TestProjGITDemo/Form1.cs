@@ -27,6 +27,8 @@ namespace TestProjGITDemo
             MessageBox.Show("test 121");
             MessageBox.Show("Test12345");
             MessageBox.Show("test34343433434");
+            MessageBox.Show("Sync");
+            
 
             MessageBox.Show("abldfdfdf");
         }
