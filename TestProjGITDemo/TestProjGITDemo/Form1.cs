@@ -31,6 +31,8 @@ namespace TestProjGITDemo
             
 
             MessageBox.Show("abldfdfdf");
+            MessageBox.Show("Test");
+            MessageBox.Show("Hello");
         }
     }
 }
