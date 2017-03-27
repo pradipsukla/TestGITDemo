@@ -31,6 +31,7 @@ namespace TestProjGITDemo
             
 
             MessageBox.Show("abldfdfdf");
+            MessageBox.Show("GIT BASH");
         }
     }
 }
